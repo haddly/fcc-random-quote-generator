@@ -1,0 +1,13 @@
+body{height:1000px;}
+.dansbody {background-color:yellow}
+.button-green {color:green;background-color:pink}
+.button-purple {color:white;background-color:purple}
+p {text-align:center;font-weight:bold;color:blue}
+.back-ground {
+  background-image:url("https://www.dropbox.com/s/4ax6osgf0gib08r/churchill.PNG?raw=1");
+      background-position: center;
+    background-repeat: no-repeat;
+   
+   width:100%;
+    height:800px;
+}
